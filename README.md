@@ -1,2 +1,2 @@
-# Own face api
-This can be used to make your own Face API in python
+# Own face recognition api
+This can be used to make your own Face recognition API in python
