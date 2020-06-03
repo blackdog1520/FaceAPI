@@ -1,0 +1,13 @@
+	
+So we are going to make a face recognition API which will be hosted on AWS
+beanstalk.
+
+For that we are going to use the most basic Face recogniser(LBPH).
+You can google it how to implement face recognition in python.
+
+I have used Flask to implement it. As its easier to use, You can use Django also.
+
+So what I have done is downloaded an image from Firebase storage. And provided the
+name of the file using parameters in the URL.
+
+
