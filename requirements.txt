@@ -29,7 +29,7 @@ oauth2client==3.0.0
 opencv-contrib-python-headless==4.2.0.34
 opencv-python-headless==4.2.0.34
 post==2019.4.13
-protobuf==3.11.3
+protobuf==3.18.3
 public==2019.4.13
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
